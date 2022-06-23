@@ -1,8 +1,10 @@
  [Covid-19 Data](https://latsan.github.io/Covid-19/)
  
  # Covid 19 case study
+ 
  ### The global coranavirus in 2019 case study
  ----
+ 
  ### Scenario
  
  * The coronavirus disease is a global disease that was discovered in 2019 and was given the name (COVID-19). It is a communicable respiratory disease caused by a new strain of coronavirus that causes illness in humans. 
@@ -22,4 +24,5 @@ After scrapping, I transformed and clean the data by converting the data from a 
 * North Korea was the least affected country
 * There is a strong correlation between confirmed cases to death cases hence, United State was recorded the country of highest death followed by Brazil and India
 
-![Covid Dashboard.jpg](https://github.com/Latsan/Covid-19/blob/main/Covid%20Dashboard.jpg)
+![](Covid Dashboard.jpg)
+
