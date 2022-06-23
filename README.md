@@ -1,4 +1,4 @@
- # [Covid-19-Case_Study](https://latsan.github.io/Covid-19/)
+ # [Covid-19-Case_Study](https://latsan.github.io/Covid-19-Case_Study/)
  
  ## Scenario
  
