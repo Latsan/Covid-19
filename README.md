@@ -1,9 +1,6 @@
- [Covid-19 Data](https://latsan.github.io/Covid-19/)
+ # [Covid-19 Data](https://latsan.github.io/Covid-19/)
  
- # Covid 19 case study
- 
- ### The global coranavirus in 2019 case study
- ----
+ ## Covid 19 case study
  
  ### Scenario
  
