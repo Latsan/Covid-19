@@ -1,6 +1,7 @@
  [Covid-19 Data](https://latsan.github.io/Covid-19/)
  
  # Covid 19 case study
+ ### The global coranavirus in 2019 case study
  ----
  ### Scenario
  
@@ -20,3 +21,5 @@ After scrapping, I transformed and clean the data by converting the data from a 
 * United State of America was the most affected country with a number of 28,458,317,317 resulting to 18.54% of the world confirmed cases followed by India, Brazil, France, United Kingdom
 * North Korea was the least affected country
 * There is a strong correlation between confirmed cases to death cases hence, United State was recorded the country of highest death followed by Brazil and India
+
+![Covid Dashboard.jpg](https://github.com/Latsan/Covid-19/blob/main/Covid%20Dashboard.jpg)
