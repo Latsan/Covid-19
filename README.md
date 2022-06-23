@@ -6,7 +6,7 @@
 Scientists research shows that the virus began in animals and one or more humans acquired infection from an animal, and those infected humans began transmitting the virus to other humans.
 The disease spreads from person to person through infected air droplets that are projected during sneezing or coughing.  It can also be transmitted when humans have contact with hands or surfaces that contain the virus and touch their eyes, nose, or mouth with the contaminated hands.
 *COVID-19 was first reported in China and later spread throughout the world in 2019.*
-----
+
 
 ### Data Source 
 The Data was scrapped from COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University. It is a public dataset
