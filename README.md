@@ -1,4 +1,4 @@
- # [Covid-19-Case_Study](https://latsan.github.io/Covid-19-Case_Study/)
+ # [Covid_19_Case_Study](https://latsan.github.io/Covid_19_Case_Study/)
  # Scenario
  ----
  * The coronavirus disease is a global disease that was discovered in 2019 and was given the name (COVID-19). It is a communicable respiratory disease caused by a new strain of coronavirus that causes illness in humans. 
